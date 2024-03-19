@@ -8,7 +8,6 @@
 
 * [Sobre o repositório](#sobre-o-repositório)
 * [Requisitos](#requisitos)
-* [Arquivos](#arquivos)
 
 ## Sobre o repositório
 
